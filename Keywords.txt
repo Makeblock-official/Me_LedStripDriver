@@ -1,0 +1,34 @@
+#######################################
+# Syntax Coloring Map Me_LedStripDriver
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Me_LedStripDriver	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+run 	KEYWORD2
+stop	KEYWORD2
+autoFlash	KEYWORD2
+onceFlash	KEYWORD2
+stopFlash	KEYWORD2
+reset	KEYWORD2
+readState	KEYWORD2
+color_loop	KEYWORD2
+indicators	KEYWORD2
+setPixelColor	KEYWORD2
+getPixelColor	KEYWORD2
+#######################################
+# Constants (LITERAL1)
+LS_NO_FLASH	LITERAL1
+LS_STOP_FLASH	LITERAL1
+LS_AUTO_FLASH	LITERAL1
+LS_ONCE_FLASH	LITERAL1
+LS_ALL_PIXEL	LITERAL1
+#######################################
+
